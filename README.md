@@ -2,9 +2,19 @@
 
 I'm Benson from Kenya :kenya: in Africa, and I am a Front-end Developer. I enjoy learning new stuff on: ⤵️
 - HTML ✔️ 
-- CSS ✔
+- CSS ✔️
 - JavaScript ✔️
-- BootStrap 
+- React ✔️
+- BootStrap ✔️
+
+### Skills
+I currently have acquired skills the following languages and tools:
+1. JavaScript
+2. React
+3. HTML and CSS
+4. Git and Github
+5. Vite
+6. Bootstrap
 
 I also mostly love the implemenetation phase where I put what I have learnt into building projects big and small. You can checkout my twitter account at [Twitter](https://twitter.com/bennyjoezz). 
 
