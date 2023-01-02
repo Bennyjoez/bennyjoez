@@ -21,10 +21,15 @@ I also mostly love the implemenetation phase where I put what I have learnt into
 I have an up to date profile on [linkedIn](https://www.linkedin.com/in/benson-njuguna-008146242/)
 
 Projects I have handled include:
-## [Login Form](https://bennyjoez.github.io/odin-form/) ❤️
+1. [Login Form](https://bennyjoez.github.io/odin-form/) ❤️
 ![login form](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 This is a mockup of a login form. 
 The user enters feeds data and its verified on various basis. The user is notified of the required fields. An error message goes off When they try to submit data without the required information being filled. Various checks are performed such as the length of text, phone numbers and passwords, format of the email and passwords, password and confirmation password match, etc.
 The input fields change background color when the check paramters are met; ✅
+  
+1. [Quizzical App](https://quizzical-scrimb.netlify.app/)  
+This is a web quizzical app game. 
+THis app was created in React.js.
+To start the game, click on the button start game, answer the questions by clicking the suitable answer. Finally check the answers by click the button at the bottom of the questions and review the results. You can start a new game by clicking play again. 
 
 I am currently learning back-end development(NextJs) 
