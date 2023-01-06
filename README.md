@@ -1,35 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Benson Njuguna</h1>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
 
-I'm Benson from Kenya :kenya: in Africa, and I am a Front-end Developer. I enjoy learning new stuff on: ⤵️
-- HTML ✔️ 
-- CSS ✔️
-- JavaScript ✔️
-- React ✔️
-- BootStrap ✔️
+<p align="left"> <a href="https://twitter.com/bennyjoezz" target="blank"><img src="https://img.shields.io/twitter/follow/bennyjoezz?logo=twitter&style=for-the-badge" alt="bennyjoezz" /></a> </p>
 
-### Skills
-I currently have acquired skills the following languages and tools:
-1. JavaScript
-2. React
-3. HTML and CSS
-4. Git and Github
-5. Vite
-6. Bootstrap
+- 💬 Ask me about **JavaScript, React, HTML and CSS**
 
-I also mostly love the implemenetation phase where I put what I have learnt into building projects big and small. You can checkout my twitter account at [Twitter](https://twitter.com/bennyjoezz). 
+- 📫 How to reach me **njugunab655@gmail.com**
 
-I have an up to date profile on [linkedIn](https://www.linkedin.com/in/benson-njuguna-008146242/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bennyjoezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bennyjoezz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/benson-njuguna-008146242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benson-njuguna-008146242" height="30" width="40" /></a>
+</p>
 
-Projects I have handled include:
-1. [Login Form](https://bennyjoez.github.io/odin-form/) ❤️
-![login form](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
-This is a mockup of a login form. 
-The user enters feeds data and its verified on various basis. The user is notified of the required fields. An error message goes off When they try to submit data without the required information being filled. Various checks are performed such as the length of text, phone numbers and passwords, format of the email and passwords, password and confirmation password match, etc.
-The input fields change background color when the check paramters are met; ✅
-  
-1. [Quizzical App](https://quizzical-scrimb.netlify.app/)  
-This is a web quizzical app game. 
-THis app was created in React.js.
-To start the game, click on the button start game, answer the questions by clicking the suitable answer. Finally check the answers by click the button at the bottom of the questions and review the results. You can start a new game by clicking play again. 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-I am currently learning back-end development(NextJs) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bennyjoez&show_icons=true&locale=en&layout=compact" alt="bennyjoez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bennyjoez&show_icons=true&locale=en" alt="bennyjoez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bennyjoez&" alt="bennyjoez" /></p>
