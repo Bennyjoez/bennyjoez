@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Benson Njuguna</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate frontend developer from Kenya 🇰🇪</h3>
+
+<p align="center">
+  I’m a Full-Stack-Development student at Microverse; a remote training school focused on teaching technical and soft skills to developers through real-world projects and pair programming. 🏁 
+  <p align="center">Before starting my development Journey I was a farmer for two years; keeping livestock and planting crops. From the daily tasks, I learned skills that make me an excellent developer including time management, stress management, operational and expansion management, and decision-making. To smoothen most operations, I got interested in building myself a simple easy-to-use farm management app to communicate, monitor, and keep farm records. After joining my first software development boot camp, I’ve been learning new and amazing solutions that I want to code and deploy for others like me. 🏴 I love coding 👨‍💻 because it’s result oriented and every bug in the code is an opportunity for me to learn.  The lines of code are like puzzle pieces that are sorted and organized into a final product. Fitting things together is a personal hobby.</p>
+  <p align="center">I am currently coding the front end of a Blockchain Summit website using HTML, CSS, and JavaScript, which allows users to register and get information about an upcoming Blockchain event meetup. </p>
+
+</p>
 
 <p align="left"> <a href="https://twitter.com/bennyjoezz" target="blank"><img src="https://img.shields.io/twitter/follow/bennyjoezz?logo=twitter&style=for-the-badge" alt="bennyjoezz" /></a> </p>
 
 - 💬 Ask me about **JavaScript, React, HTML and CSS**
+- 🔗 Checkout my [Portfolio](https://microvese-projects.github.io/Portfolio/)
 
 - 📫 You can reach me at **njugunab655@gmail.com**
 
