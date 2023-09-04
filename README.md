@@ -30,4 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bennyjoez&" alt="bennyjoez" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=bennyjoez&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=bennyjoez&label=Profile%20Views&color=3&icon=0&pretty=false" />
+</a>
