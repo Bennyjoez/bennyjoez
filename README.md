@@ -8,7 +8,7 @@
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/bennyjoezz" target="blank"><img src="https://img.shields.io/twitter/follow/bennyjoezz?logo=twitter&style=for-the-badge" alt="bennyjoezz" /></a> </p>
+<p align="left"> <a href="https://x.com/bennnyjoez" target="blank"><img src="https://img.shields.io/twitter/follow/bennyjoezz?logo=twitter&style=for-the-badge" alt="bennyjoezz" /></a> </p>
 
 - 💬 Ask me about **JavaScript, React, Ruby, HTML and CSS**
 - 🔗 Checkout my [Portfolio](https://soft-portfolio.netlify.app/)
