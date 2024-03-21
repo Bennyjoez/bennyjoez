@@ -3,7 +3,7 @@
 
 <p align="center">
   Microverse graduate, passionate about innovative app development. Let's code the future! 👨‍💻✨ 🏁 
-  <p align="center">I love coding 👨‍💻 because it’s result-oriented and every bug in the code is an opportunity for me to learn.  The lines of code are like puzzle pieces that are sorted and organized into a final product. Fitting things together is a personal hobby.</p>
+  <p align="center">I enjoy coding 👨‍💻 because it’s result-oriented and every bug in the code is an opportunity for me to learn.  The lines of code are like puzzle pieces that are sorted and organized into a final product. Fitting things together is a personal hobby.</p>
   <p align="center">I am currently crafting a shopping app with Node.js backend & Next.js frontend. </p>
 
 </p>
